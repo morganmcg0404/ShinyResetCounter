@@ -1,5 +1,3 @@
-# README.md
-
 # Shiny Reset Counter
 
 A real-time counter application that tracks keyboard presses and displays the count through a web interface. Perfect for tracking shiny hunting attempts in Pokemon games or similar repetitive counting needs.
